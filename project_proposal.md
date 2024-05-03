@@ -119,6 +119,8 @@ To effectively complete this project, it's crucial to ensure the code can effici
 
 - Riverbank Computing Limited. (2024). PyQt5 Documentation. Retrieved from https://www.riverbankcomputing.com/static/Docs/PyQt5/
 
+- OpenAI. (2024, May 3). OpenAI Chat. Retrieved from https://chat.openai.com
+
 - OpenStreetMap contributors. (2024, May 3). About OpenStreetMap. Retrieved from https://www.openstreetmap.org/about
 
 - Python Software Foundation. (2024, May 3). PyQt. Retrieved from https://wiki.python.org/moin/PyQt
