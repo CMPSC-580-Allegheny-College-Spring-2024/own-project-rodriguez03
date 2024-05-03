@@ -15,6 +15,7 @@ class PennsylvaniaMap(QMainWindow):
 
     def setup_ui(self):
         # HTML content from Pennsylvania_map.html
+        # Used CHAT GPT to produce HTML file
         html_content = """
         <!DOCTYPE html>
         <html lang="en">
