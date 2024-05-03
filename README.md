@@ -68,15 +68,15 @@ these requirements.
   - [X] The project prototype and proposal were submitted on time on GitHub
   - [X] The pitch slides were submitted on time via the [Google Slides](https://docs.google.com/presentation/d/154V9XquBwLsIVaasJO24e4KglLS9eeVW5e-3mX2OjWc/edit?usp=sharing)
   - [X] The prototype demo video was submitted on time via the [Google Form](https://forms.gle/7UebHZU4CFzfTrY57)
-  - [ ] The GitHub repository of the project contains evidence of many commits (multiple commits each week)
-    - [ ] The GitHub repository of the project has a passing build status in GitHub Actions
-  - [ ] The proposal has the correct format created through the use of Markdown and includes the sections outlined in the provided template
-  - [ ] The title of the project is both interesting and appropriate
-  - [ ] The project proposal cites at least ten references, with five references being published, peer-reviewed articles
-  - [ ] The project proposal consists of at least `2000` words
-  - [ ] The project proposal follows a logical flow at the level of sections,
+  - [X] The GitHub repository of the project contains evidence of many commits (multiple commits each week)
+    - [X] The GitHub repository of the project has a passing build status in GitHub Actions
+  - [X] The proposal has the correct format created through the use of Markdown and includes the sections outlined in the provided template
+  - [X] The title of the project is both interesting and appropriate
+  - [X] The project proposal cites at least ten references, with five references being published, peer-reviewed articles
+  - [X] The project proposal consists of at least `2000` words
+  - [X] The project proposal follows a logical flow at the level of sections,
     subsections, and individual paragraphs
-  - [ ] The project proposal includes appropriate visual aids, which fall under the broad
+  - [X] The project proposal includes appropriate visual aids, which fall under the broad
     categories of:
 
   * `image`
@@ -84,33 +84,33 @@ these requirements.
   * `table`
   * `graph`
 
-  - [ ] The project proposal highlights and explains the societal impacts and ethical
+  - [X] The project proposal highlights and explains the societal impacts and ethical
     implications of the completed research
-  - [ ] There are no typographical or grammatical errors in the proposal
-  - [ ] There is no extraneous text in the proposal
-  - [ ] Prototype contains a README outlining its key features, software and  hardware requirements needed to use the prototype, and steps necessary to run the prototype
-  - [ ] Prototype works as intended
-  - [ ] Prototype's implementation contains appropriate documentation (comments)
+  - [X] There are no typographical or grammatical errors in the proposal
+  - [X] There is no extraneous text in the proposal
+  - [X] Prototype contains a README outlining its key features, software and  hardware requirements needed to use the prototype, and steps necessary to run the prototype
+  - [X] Prototype works as intended
+  - [X] Prototype's implementation contains appropriate documentation (comments)
 
 The project proposal is required to contain the following five sections:
 
 - **Introduction Section Requirements**
 
-  - [ ] The introduction section clearly describes the proposed project
-  - [ ] The introduction section motivates the proposed project work
-  - [ ] The introduction section contains specific project goals and/or research questions that the project aims to answer
+  - [X] The introduction section clearly describes the proposed project
+  - [X] The introduction section motivates the proposed project work
+  - [X] The introduction section contains specific project goals and/or research questions that the project aims to answer
 - **Related Work Section Requirements**
 
-  - [ ] The related work section references and describes relevant literature
-  - [ ] The related work section contains concise, scholarly review of the literature
+  - [X] The related work section references and describes relevant literature
+  - [X] The related work section contains concise, scholarly review of the literature
     explaining the background to the proposed research
-  - [ ] The related work section explains how relevant literature connects to the proposed project and provides the context for the aims of the proposed project in relation to existing work on the topic
-  - [ ] The related work section does not provide a "laundry list" of the related literature
-  - [ ] The related work section situates the proposed project in the broader scope
+  - [X] The related work section explains how relevant literature connects to the proposed project and provides the context for the aims of the proposed project in relation to existing work on the topic
+  - [X] The related work section does not provide a "laundry list" of the related literature
+  - [X] The related work section situates the proposed project in the broader scope
 - **Prototype Section Requirements**
 
-  - [ ] The prototype section explains the process utilized in the completed study
-  - [ ] The prototype section addresses as many of the necessary methodology used in the prototype development. For example, the following may be relevant to the project:
+  - [X] The prototype section explains the process utilized in the completed study
+  - [X] The prototype section addresses as many of the necessary methodology used in the prototype development. For example, the following may be relevant to the project:
 
   * `description of algorithms`
   * `programming languages`
