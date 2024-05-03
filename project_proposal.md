@@ -117,6 +117,8 @@ To effectively complete this project, it's crucial to ensure the code can effici
 
 - B. Richardson and D. F. Hougen. 2020. Districts by demographics: Predicting US house of representative elections using machine learning and demographic data. In 2020 19th IEEE International Conference on Machine Learning and Applications (ICMLA), 833-838. IEEE.
 
+- OpenStreetMap contributors. (2024, May 3). About OpenStreetMap. Retrieved from https://www.openstreetmap.org/about
+
 - H. Wickham. 2014. Tidy data. Journal of Statistical Software 59, 10, 1-23. Retrieved from https://vita.had.co.nz/papers/tidy-data.pdf.
 
 - Wang, Y., and Chen, J. 2019. Understanding Gerrymandering: A Review of Methods and Approaches. *International Journal of Geographical Information Science* 33, 11 (2019), 2293-2314.
