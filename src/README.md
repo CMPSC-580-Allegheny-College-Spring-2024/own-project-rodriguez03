@@ -1,4 +1,10 @@
-# Project Prototype
+# **Predicting Partisan Parties in PA Districts**
+
+This prototype is aimed towards recognizing how districts behave throughout elections. It uses data from previous elections to 
+
+## Inspiration
+
+## Project Prototype
 
 TODO: The result of your work will be the delivery of some type of proof-of-concept prototype which will likely contain software programming solutions (i.e., Python code, HTML pages, or similar). All source code for the prototype must be stored in this directory. If your prototype uses data, please create `data/` subdirectory in `src/` and include your data file(s) in `src/data/` directory.
 
@@ -15,3 +21,9 @@ TODO: Include the software and hardware needed to run your prototype. Be sure to
 ## Using the Prototype
 
 TODO: Provide details for how to run your artifact. Include specific commands and step by step instructions.
+
+## Results
+
+## Conclusion
+
+## Future Work 
