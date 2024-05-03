@@ -58,18 +58,16 @@ class PennsylvaniaMap(QMainWindow):
         </html>
         """
 
-        # Create the QWebEngineView and load the HTML content
+        # Creating the QWebEngineView and load the HTML content
         self.map_widget = QWebEngineView(self)
         self.map_widget.setHtml(html_content, QUrl.fromLocalFile(""))
         self.map_widget.setGeometry(0, 0, 800, 600)
         self.setCentralWidget(self.map_widget)
 
-        # Write the HTML content to the file
         file_path = "pennsylvania_map.html"
         with open(file_path, "w") as f:
             f.write(html_content)
 
-        # Open the HTML file in the default web browser
         webbrowser.open("file://" + os.path.abspath(file_path))
 
         # self.map_widget = QWebEngineView(self)
