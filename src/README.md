@@ -6,7 +6,7 @@ Welcome to the Electoral Prediction Model! 🎉 Here, you will dive into the fas
 
 - Unraveling Electoral Behavior
 
-Why are we doing this, you ask? Well, imagine having a crystal ball that could foresee how each district might vote in upcoming elections. That's the dream! I'm inspired by the challenge of unraveling the complexities of electoral behavior and using data science to make informed predictions.
+Why is this important, you ask? Well, imagine having a crystal ball that could foresee how each district might vote in upcoming elections. That's the dream! I'm inspired by the challenge of unraveling the complexities of electoral behavior and using data science to make informed predictions.
 
 - Harnessing the Power of Data Science
 
@@ -22,7 +22,7 @@ Ultimately, my project is about empowering decision-makers – whether they're p
 
 - The Quest for Democracy
 
-In the end, my project is driven by a fundamental belief in the power of democracy. By shedding light on the intricacies of electoral behavior, I hope to strengthen the democratic process and ensure that every voice is heard. So join me on this journey as we embark on the quest to predict partisan parties in Pennsylvania's electoral districts! 🗳️🔮
+In the end, my project is driven by a fundamental belief in the power of democracy. By shedding light on the intricacies of electoral behavior, I hope to strengthen the democratic process and ensure that every voice is heard. So join me on this journey as you embark on the quest to predict partisan parties in Pennsylvania's electoral districts! 🗳️🔮
 
 ### Project Prototype For Now
 
@@ -30,22 +30,22 @@ In the end, my project is driven by a fundamental belief in the power of democra
 
 ### Key Features
 
-- **Python Power**: We're wielding the mighty Python for all our data analysis and machine learning needs. It's like having a trusty sidekick in our quest for electoral enlightenment.
+- **Python Power**: We're wielding the mighty Python for all data analysis and machine learning needs. It's like having a trusty sidekick in the quest for electoral enlightenment.
 - **PyQt5 Prowess**: With PyQt5, we've crafted a sleek and user-friendly interface that makes exploring electoral data a breeze. Who says data analysis can't be stylish?
-- **Leaflet.js Magic**: Thanks to Leaflet.js, our electoral map comes to life with interactive features. Prepare to be amazed as you dive deep into Pennsylvania's political landscape!
+- **Leaflet.js Magic**: Thanks to Leaflet.js, the electoral map comes to life with interactive features. Prepare to be amazed as you dive deep into Pennsylvania's political landscape!
 
 ### Requirements
 
 To embark on this thrilling journey with us, here's what you'll need:
 
-- **Python**: Our trusty companion in the world of data science.
-- **PyQt5**: The magic ingredient for our sleek and intuitive interface.
-- **Leaflet.js**: Bringing our electoral map to life with its interactive wizardry.
+- **Python**: Trusty companion in the world of data science.
+- **PyQt5**: The magic ingredient for sleek and intuitive interface.
+- **Leaflet.js**: Bringing the electoral map to life with its interactive wizardry.
 - **Web Browser**: Because what's a map without a browser to explore it?
 
 ### Installation and Execution
 
-1. **Clone the Repository**: Grab the latest version of our project by cloning the repository:
+1. **Clone the Repository**: Grab the latest version of the project by cloning the repository:
    ```bash
    git clone https://github.com/CMPSC-580-Allegheny-College-Spring-2024/own-project-rodriguez03.git
    ```
