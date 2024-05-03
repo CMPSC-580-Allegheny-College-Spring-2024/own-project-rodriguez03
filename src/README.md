@@ -4,8 +4,6 @@ Welcome to the Electoral Prediction Model! 🎉 Here, you will dive into the fas
 
 ### Inspiration
 
-Absolutely, let's add a personal touch to our motivation.
-
 - Unraveling Electoral Behavior
 
 Why are we doing this, you ask? Well, imagine having a crystal ball that could foresee how each district might vote in upcoming elections. That's the dream! I'm inspired by the challenge of unraveling the complexities of electoral behavior and using data science to make informed predictions.
