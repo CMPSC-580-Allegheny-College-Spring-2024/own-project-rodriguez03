@@ -117,6 +117,8 @@ To effectively complete this project, it's crucial to ensure the code can effici
 
 - B. Richardson and D. F. Hougen. 2020. Districts by demographics: Predicting US house of representative elections using machine learning and demographic data. In 2020 19th IEEE International Conference on Machine Learning and Applications (ICMLA), 833-838. IEEE.
 
+- Riverbank Computing Limited. (2024). PyQt5 Documentation. Retrieved from https://www.riverbankcomputing.com/static/Docs/PyQt5/
+
 - OpenStreetMap contributors. (2024, May 3). About OpenStreetMap. Retrieved from https://www.openstreetmap.org/about
 
 - Python Software Foundation. (2024, May 3). PyQt. Retrieved from https://wiki.python.org/moin/PyQt
